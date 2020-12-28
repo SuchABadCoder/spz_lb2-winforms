@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\spz_lb2\spz_lb2\bin\Debug\spz_lb2.exe.config
+C:\Users\USER\source\repos\spz_lb2\spz_lb2\bin\Debug\spz_lb2.exe
+C:\Users\USER\source\repos\spz_lb2\spz_lb2\bin\Debug\spz_lb2.pdb
+C:\Users\USER\source\repos\spz_lb2\spz_lb2\obj\Debug\spz_lb2.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\spz_lb2\spz_lb2\obj\Debug\spz_lb2.MainWindow.resources
+C:\Users\USER\source\repos\spz_lb2\spz_lb2\obj\Debug\spz_lb2.Properties.Resources.resources
+C:\Users\USER\source\repos\spz_lb2\spz_lb2\obj\Debug\spz_lb2.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\spz_lb2\spz_lb2\obj\Debug\spz_lb2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\spz_lb2\spz_lb2\obj\Debug\spz_lb2.exe
+C:\Users\USER\source\repos\spz_lb2\spz_lb2\obj\Debug\spz_lb2.pdb
+C:\Users\USER\source\repos\spz_lb2\spz_lb2\obj\Debug\spz_lb2.AddUniversity.resources
